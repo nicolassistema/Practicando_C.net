@@ -1,0 +1,13 @@
+C:\GITHUB\Boludiando con C#\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.exe
+C:\GITHUB\Boludiando con C#\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.deps.json
+C:\GITHUB\Boludiando con C#\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.runtimeconfig.json
+C:\GITHUB\Boludiando con C#\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.runtimeconfig.dev.json
+C:\GITHUB\Boludiando con C#\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.dll
+C:\GITHUB\Boludiando con C#\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.pdb
+C:\GITHUB\Boludiando con C#\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.csprojAssemblyReference.cache
+C:\GITHUB\Boludiando con C#\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.AssemblyInfoInputs.cache
+C:\GITHUB\Boludiando con C#\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.AssemblyInfo.cs
+C:\GITHUB\Boludiando con C#\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\GITHUB\Boludiando con C#\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.dll
+C:\GITHUB\Boludiando con C#\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.pdb
+C:\GITHUB\Boludiando con C#\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.genruntimeconfig.cache

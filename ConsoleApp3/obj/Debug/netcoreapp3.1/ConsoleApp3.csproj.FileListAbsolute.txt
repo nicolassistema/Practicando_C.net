@@ -1,0 +1,13 @@
+C:\GITHUB\Boludiando con C#\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.exe
+C:\GITHUB\Boludiando con C#\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.deps.json
+C:\GITHUB\Boludiando con C#\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.json
+C:\GITHUB\Boludiando con C#\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.dev.json
+C:\GITHUB\Boludiando con C#\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll
+C:\GITHUB\Boludiando con C#\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.pdb
+C:\GITHUB\Boludiando con C#\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csprojAssemblyReference.cache
+C:\GITHUB\Boludiando con C#\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+C:\GITHUB\Boludiando con C#\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+C:\GITHUB\Boludiando con C#\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\GITHUB\Boludiando con C#\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
+C:\GITHUB\Boludiando con C#\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb
+C:\GITHUB\Boludiando con C#\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.genruntimeconfig.cache

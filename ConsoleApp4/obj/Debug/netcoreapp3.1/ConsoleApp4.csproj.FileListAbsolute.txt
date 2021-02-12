@@ -1,0 +1,13 @@
+C:\GITHUB\Boludiando con C#\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.exe
+C:\GITHUB\Boludiando con C#\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.deps.json
+C:\GITHUB\Boludiando con C#\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.runtimeconfig.json
+C:\GITHUB\Boludiando con C#\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.runtimeconfig.dev.json
+C:\GITHUB\Boludiando con C#\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.dll
+C:\GITHUB\Boludiando con C#\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.pdb
+C:\GITHUB\Boludiando con C#\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.AssemblyInfoInputs.cache
+C:\GITHUB\Boludiando con C#\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.AssemblyInfo.cs
+C:\GITHUB\Boludiando con C#\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\GITHUB\Boludiando con C#\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.dll
+C:\GITHUB\Boludiando con C#\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.pdb
+C:\GITHUB\Boludiando con C#\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.genruntimeconfig.cache
+C:\GITHUB\Boludiando con C#\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.csprojAssemblyReference.cache
