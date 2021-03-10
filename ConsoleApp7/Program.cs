@@ -6,19 +6,28 @@ namespace ConsoleApp7
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ingrese un numero");
-            int numero = int.Parse(Console.ReadLine());
 
-           // int resultado = numero % 2;
+            int salida = 0;
+            do
+            {
+                Console.WriteLine("Ingrese un numero");
+                int numero = int.Parse(Console.ReadLine());
 
-            if ((numero % 2)==0)
-            {
-                Console.WriteLine("Es numero par");
-            }
-            else
-            {
-                Console.WriteLine("Es numero impar");
-            }
+                // int resultado = numero % 2;
+
+                if ((numero % 2) == 0)
+                {
+                    Console.WriteLine("Es numero par");
+                }
+                else
+                {
+                    Console.WriteLine("Es numero impar");
+                }
+
+                Console.WriteLine("sale??");
+                salida = int.Parse(Console.ReadLine());
+
+            } while (salida == 0);
 
 
 
