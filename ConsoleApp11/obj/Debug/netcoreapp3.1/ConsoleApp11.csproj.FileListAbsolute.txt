@@ -10,3 +10,4 @@ C:\GITHUB\Boludiando con C#\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.cs
 C:\GITHUB\Boludiando con C#\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.dll
 C:\GITHUB\Boludiando con C#\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.pdb
 C:\GITHUB\Boludiando con C#\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.genruntimeconfig.cache
+C:\GITHUB\Boludiando con C#\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.csprojAssemblyReference.cache
