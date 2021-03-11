@@ -1,0 +1,12 @@
+C:\GITHUB\Boludiando con C#\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.exe
+C:\GITHUB\Boludiando con C#\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.deps.json
+C:\GITHUB\Boludiando con C#\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.json
+C:\GITHUB\Boludiando con C#\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.dev.json
+C:\GITHUB\Boludiando con C#\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.dll
+C:\GITHUB\Boludiando con C#\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.pdb
+C:\GITHUB\Boludiando con C#\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfoInputs.cache
+C:\GITHUB\Boludiando con C#\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfo.cs
+C:\GITHUB\Boludiando con C#\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\GITHUB\Boludiando con C#\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.dll
+C:\GITHUB\Boludiando con C#\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.pdb
+C:\GITHUB\Boludiando con C#\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.genruntimeconfig.cache
