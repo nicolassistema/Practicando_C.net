@@ -1,0 +1,6 @@
+C:\GITHUB\Boludiando con C#\ConsoleApp1-migrado\ConsoleApp1-migrado\bin\Debug\ConsoleApp1-migrado.exe.config
+C:\GITHUB\Boludiando con C#\ConsoleApp1-migrado\ConsoleApp1-migrado\bin\Debug\ConsoleApp1-migrado.exe
+C:\GITHUB\Boludiando con C#\ConsoleApp1-migrado\ConsoleApp1-migrado\bin\Debug\ConsoleApp1-migrado.pdb
+C:\GITHUB\Boludiando con C#\ConsoleApp1-migrado\ConsoleApp1-migrado\obj\Debug\ConsoleApp1-migrado.csproj.CoreCompileInputs.cache
+C:\GITHUB\Boludiando con C#\ConsoleApp1-migrado\ConsoleApp1-migrado\obj\Debug\ConsoleApp1-migrado.exe
+C:\GITHUB\Boludiando con C#\ConsoleApp1-migrado\ConsoleApp1-migrado\obj\Debug\ConsoleApp1-migrado.pdb

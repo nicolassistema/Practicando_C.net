@@ -1,0 +1,6 @@
+C:\GITHUB\Boludiando con C#\ConsoleApp5-migrado\ConsoleApp5-migrado\obj\Debug\ConsoleApp5-migrado.csproj.CoreCompileInputs.cache
+C:\GITHUB\Boludiando con C#\ConsoleApp5-migrado\ConsoleApp5-migrado\bin\Debug\ConsoleApp5-migrado.exe.config
+C:\GITHUB\Boludiando con C#\ConsoleApp5-migrado\ConsoleApp5-migrado\bin\Debug\ConsoleApp5-migrado.exe
+C:\GITHUB\Boludiando con C#\ConsoleApp5-migrado\ConsoleApp5-migrado\bin\Debug\ConsoleApp5-migrado.pdb
+C:\GITHUB\Boludiando con C#\ConsoleApp5-migrado\ConsoleApp5-migrado\obj\Debug\ConsoleApp5-migrado.exe
+C:\GITHUB\Boludiando con C#\ConsoleApp5-migrado\ConsoleApp5-migrado\obj\Debug\ConsoleApp5-migrado.pdb
